@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fahrurrizky/fahrurrizky/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fahrurrizky/snake.svg" alt="Snake animation" />
 
 ###
