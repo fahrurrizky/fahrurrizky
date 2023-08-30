@@ -1,6 +1,8 @@
 ###
 
-<img align="center" height="195" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif"  />
+<div style="display: flex; justify-content: center;">
+  <img height="195" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif" />
+</div>
 
 ###
 ###
