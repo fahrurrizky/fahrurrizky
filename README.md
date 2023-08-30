@@ -1,3 +1,26 @@
+###
+
+<img align="left" height="195" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif"  />
+
+###
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/fahrur_rizky/?hl=id" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="fahrur_rizky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/m-fahrur-rizky-444655220/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="fahrurrizky022@gamil.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 <h5 align="center">Hi 👋! My name is Rizky and I'm a Web Designer & Developer, from Indonesia. I am a passionate and motivated beginner frontend developer. I have always been fascinated by the intersection of design and technology, and I am excited to embark on this journey of creating beautiful and user-friendly web experiences. While I may be a beginner, I have already gained a solid foundation in HTML, CSS, and JavaScript through bootcamp and personal projects. I enjoy the process of bringing static designs to life by writing clean and well-structured code.</h5>
 
 ###
@@ -7,11 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrurrizky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="left" height="195" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -41,25 +59,5 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/fahrur_rizky/?hl=id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="fahrur_rizky" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/m-fahrur-rizky-444655220/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="fahrurrizky022@gamil.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fahrurrizky/snake.svg" alt="Snake animation" />
 
 ###
