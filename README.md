@@ -8,7 +8,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Whats i like : Reading📚 Running🏃🏻 Coding💻.
 
 ## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fahrur_rizky/?hl=id) 
