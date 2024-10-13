@@ -5,7 +5,7 @@
 <br/>
 🧑🏻‍💻 I'm a passionate Web Designer and Developer from IDN 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React.JS, Next.JS, Vue.JS.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Whats i like : Reading📚 Running🏃🏻 Coding💻.
